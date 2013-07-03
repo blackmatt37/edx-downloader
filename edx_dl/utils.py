@@ -10,9 +10,9 @@ import urllib2
 
 from bs4 import BeautifulSoup
 
-EDX_HOMEPAGE = 'https://www.edx.org'
-LOGIN_URL = 'https://www.edx.org/login'
-DASHBOARD = 'https://www.edx.org/dashboard'
+EDX_HOMEPAGE = 'https://education.10gen.com'
+LOGIN_URL = 'https://education.10gen.com/login'
+DASHBOARD = 'https://education.10gen.com/dashboard'
 YOUTUBE_VIDEO_ID_LENGTH = 11
 
 
